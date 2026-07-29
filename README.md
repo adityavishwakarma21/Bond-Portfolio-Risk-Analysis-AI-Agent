@@ -79,9 +79,10 @@ Project_Convexity_AI_Agent
 ---
 
 ## Dashboard
+## Dashboard Preview
 
+![Dashboard](Images/dashboard.png)
 The dashboard contains:
-
 - Total Bonds
 - Average Yield
 - Average Duration
